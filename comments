@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+	int x;
+	cin>>x;
+	//Este codigo imprime hello world
+	//aqui termina el programa
+	// esta condicional imprime hello world
+	if(x>0)
+	{
+		cout<<"Hello world"<<endl;
+		//etse codigo es una piña
+	}
+	//sencillo el programa
+}
